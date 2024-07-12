@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jodie Zeng</h1>
 <h3 align="center">Entry Level Data Analyst and Software Engineer</h3>
 <h3 align="center">She/Her</h3>
-<p align="center">I am a junior at the University of Rochester looking to enter the Spectator Sports industry in a data analytics role.</p>
+<p align="center">I am a senior at the University of Rochester looking to enter the Spectator Sports industry in a data analytics role.</p>
 
 <h3 align="left">My Work:</h3>
 <a href="https://github.com/jodiezeng3/portfolio">Github Portfolio</a>
